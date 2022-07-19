@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #1B244A;
+}
+
+.homeScore {
+    background: #0a0001;
+    font-size: 60px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 25px;
+    font-family: 'Cursed Timer ULiL';
+}
+
+.guestScore {
+    background: #0a0001;
+    font-size: 60px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 25px;
+    font-family: 'Cursed Timer ULiL';
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: #EEEEEE;
+}
+
+button {
+    box-sizing: border-box;
+    border: 2px solid #9AABD8;
+    border-radius: 5px; 
+    background: none;
+    color: #9AABD8;
+    height: 40px;
+}
+
+.newGameButton {
+    height: 40px;
+}
